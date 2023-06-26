@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Modul.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/repository/impl/UsersRepositoryImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/service/impl/ModulServiceImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/component/tablemodel/ModulesLocationTableModel.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Location.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/modules/LocationAddForm.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/modules/ModulesAddForm.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/History.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Users.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Privilege.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/service/impl/HistoryServiceImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/service/GenericService.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/repository/impl/LocationRepositoryImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Operation.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/component/tablemodel/ModulesTableModel.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/service/impl/LocationServiceImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/MainStart.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Type.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/modules/HistoryViewForm.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Sort.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/util/DbUtil.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/db/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/repository/GenericRepository.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/modules/ModulesViewForm.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/repository/impl/HistoryRepositoryImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/component/tablemodel/HistoryTableModel.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/model/Status.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/login/LoginController.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/modules/LocationsViewForm.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/session/ApplicationSession.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/repository/impl/ModulRepositoryImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/component/tablemodel/LocationsTableModel.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/HomePageForm.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/service/impl/UsersServiceImpl.java</file>
+            <file>file:/C:/Users/Marko%20HP/My%20Drive/Java/FON/UNDP_DUNDA_MARKO/SparePartsNew_without_Client_Server/src/sparepartsnew/ui/modules/ModulesEditedForm.java</file>
+        </group>
+    </open-files>
+</project-private>

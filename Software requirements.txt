@@ -1,0 +1,39 @@
+Software requirements:
+
+  General:
+  - Handling the modules in live time in order to get updated status and location, and keep tracking history actions of each module.
+  - Implement in swing framework using MySQLYog tool for database development
+
+
+  Home Page:
+  - Huge display about naming of application: Welcome to Spare Part APP
+  - In the right-top corner 3 lines dropdown menu which shows:
+       - RS/EN/GER translation (hard to implement)
+       - Contact (showing developer name, e-mail and optional phone number)
+       - About: Program version
+  - In the middle page 'Log in' button. When it is clicked under it Username and Password fields are shown
+  - right next to it is Login button. On click it checks whether Username and password matches with User table and their privileges
+   if it matches it directs to Search Page
+  - Forgot password? button is shown under.(not of interest to implement)
+
+  Search Page:
+  - In the right-top corner 3 lines dropdown menu is displayed with two possible options:
+     - Export: on click, Excel table of modules is exported in .xls format
+     - Import: only user with admin right can use this option. On its click pop-up get shown with warning message that 
+       'dangerous operation! You will delete previous database and import new one. Are you sure?' Another two buttons 'Yes' and 'No'
+       are shown. On 'No' it closes dialogs both. On 'Yes' it exports actual database in Excel format and asks to import new database
+       table which can be searched in local disk
+  - In 'Search' text field you can enter any characher and on 'Search' button (not shown on picture) it will display under full table
+    with searched results
+  - Filters menu button should be dropdown menu with new options: Type, Location, name, P/N which have checkboxes next to it
+  - Under search table three buttons should be displayed: 'Move', 'Create', 'Delete'
+    -On move, one module should be selected and it can be available to change its location and status
+    -On create, new fields should be appeared for creating new modules with its attributes
+    -On delete, module should be selected to be deleted
+
+There should be 3 depositories:
+ - Username list with e-mails, passwords and privilegies
+ - Active module table containing all modules in network which don't repeat
+ - History or archive tables with all modules and with all their actions ever performed
+    
+   
